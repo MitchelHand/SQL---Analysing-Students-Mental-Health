@@ -86,3 +86,6 @@ I'm currently developing my technical skill set through real-world projects, boo
 ## ✅ Status
 
 ✔️ Project Completed – Ready for review and feedback.
+
+<img width="1919" height="969" alt="Screenshot 2025-07-18 095523" src="https://github.com/user-attachments/assets/f9c335bb-7e53-49dd-920a-240524d7815b" />
+
